@@ -1,26 +1,6 @@
-# <img src="assets/logo.png" alt="Cyberly Logo" width="350">
-
 # Cyberly IRAP Assessment Support Guidance
 
-Welcome to the **Cyberly IRAP Support** repository. This resource is designed to provide security assessors, engineers, and consultants with structured guidance on how to scope, assess, and verify compliance with the **Australian Signals Directorate (ASD)** Australian Cyber Security Centre (ACSC) **Information Security Manual (ISM)**.
-
-Our objective is to streamline the scoping phase and technical assessment procedures for Infosec Registered Assessors Program (IRAP) assessments.
-
----
-
-## Repository Purpose
-
-During an IRAP assessment, defining the authorization boundary and determining system join states is critical. This repository contains:
-- **Scoping Checklists**: Guidelines to determine the endpoint join state (Workgroup, Active Directory domain, or Entra ID joined).
-- **Verification Commands**: PowerShell and CLI snippets to inspect system states and verify central management posture.
-- **ISM Controls Mapping**: Direct reference points to help map system architectures to relevant ISM control requirements.
-
----
-
-## Guidance Documentation
-
--  **[Windows Join State Scoping Guide](Scoping/file.md)**: Steps to determine if endpoints are Standalone, AD-Joined, or Microsoft Entra ID joined.
--  **[Active Directory Scoping Guidance](Scoping/active_directory.md)**: Further guidelines on Active Directory scoping and centralized policy enforcement checks.
+Welcome to the **Cyberly IRAP Support** repository. This resource is designed to provide structured guidance on how to scope, assess, and verify compliance with the **Australian Signals Directorate (ASD)** Australian Cyber Security Centre (ACSC) **Information Security Manual (ISM)**.
 
 ---
 
